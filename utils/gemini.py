@@ -1,4 +1,3 @@
-print("🔥 LOADED utils/gemini.py FROM GROQ VERSION")
 import os
 from dotenv import load_dotenv
 from groq import Groq

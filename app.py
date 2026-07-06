@@ -1,4 +1,3 @@
-print("🚀 APP.PY IS RUNNING")
 import streamlit as st
 from utils.security import contains_prompt_injection
 
